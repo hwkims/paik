@@ -1,0 +1,1236 @@
+/* ===================
+    moment 而щ윭蹂�寃� 紐⑤뱢
+   =================== */
+
+
+
+/* 寃��� */
+
+.btn_board_search {
+    border: 1px solid #00B5A6;
+    background: #00B5A6;
+    -khtml-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    -ms-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+}
+
+.btn_board_search:hover {
+    border: 1px solid #00B5A6;
+    background: #00B5A6;
+}
+
+/* ���� */
+
+.btn_write_ok {
+    border: 1px solid #00B5A6;
+    background: #00B5A6;
+    min-width: 100px;
+    -khtml-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    -ms-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+}
+
+.btn_write_ok:hover {
+    border: 1px solid #00B5A6;
+    background: #00B5A6;
+}
+
+/* 異붿쿇�섍린 */
+
+.btn_comment_best {
+    border: 1px solid #00B5A6;
+    background: #00B5A6;
+    -khtml-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    -ms-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+}
+
+.btn_comment_best:hover {
+    border: 1px solid #00B5A6;
+    background: #00B5A6;
+}
+
+/* 1:1 臾몄쓽 議고쉶踰꾪듉 */
+
+.btn_date_check {
+    border: 1px solid #00B5A6;
+    background: #00B5A6;
+    -khtml-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    -ms-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+}
+
+/* 湲곕낯 寃뚯떆�� �뚯씠釉� 由ъ뒪�� */
+
+.board_list_table .board_tit strong > span {
+    color: #00B5A6;
+}
+
+/* �곹뭹�몄텧 */
+
+.view_select_item_info > strong {
+    color: #00B5A6;
+}
+
+/* 寃뚯떆�� �쒕ぉ */
+
+.plus_review_info_cont .board_review_num em strong {
+    color: #00B5A6;
+}
+
+/* �볤� */
+
+.plus_review_view .review_comment_top .comment_best_num {
+    color: #00B5A6;
+}
+
+/* �곹뭹 由ъ뒪�� */
+
+.add_goods_layer .pick_list_num strong {
+    color: #00B5A6;
+}
+
+#wrap .text_warning {
+    color: red;
+}
+
+#wrap .member_warning.prior_wrong .chosen-single {
+    border: 1px solid red;
+}
+
+#wrap .member_warning.prior_wrong .text_warning {
+    color: red;
+}
+
+#wrap .member_warning.prior_wrong .form_element {
+    border: 1px solid red;
+}
+
+/* �덉쟾�� ��쓬 */
+
+#wrap .member_warning.prior_half_pass .text_warning {
+    color: red;
+}
+
+/* �깆씤�몄쬆 �쒖옉 */
+
+.adult_wrap .guest_login .login_input_sec button {
+    border: 1px solid #00B5A6;
+    background: #00B5A6;
+    -khtml-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    -ms-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+}
+
+.adult_wrap .guest_login .login_input_sec button:hover {
+    background: #00B5A6;
+    border: 1px solid #00B5A6;
+}
+
+.guest_btn.base3 {
+    border: 1px solid #00B5A6;
+    background: #00B5A6;
+    -khtml-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    -ms-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+}
+
+.guest_btn.base3:hover {
+    border: 1px solid #00B5A6;
+    background: #00B5A6;
+}
+
+/* �깆씤�몄쬆 �� */
+
+/* �뚯썝�꾩슜 濡쒓렇�� �명듃濡� */
+
+.intro_member_wrap .member_login_box .login_input_sec button {
+    border: 1px solid #00B5A6;
+    background: #00B5A6;
+}
+
+.intro_member_wrap .member_login_box .login_input_sec button:hover {
+    background: #00B5A6;
+    border: 1px solid #00B5A6;
+}
+
+.intro_member_wrap .member_login_box .btn_login_box .btn_join {
+    background: #00B5A6;
+    border: 1px solid #00B5A6;
+}
+
+.intro_member_wrap .member_login_box .btn_login_box .btn_join:hover {
+    border: 1px solid #00B5A6;
+    background: #00B5A6;
+}
+
+/* 二쇱쐞,寃쎄퀬 �띿뒪�� */
+
+.chk_none {
+    color: #00B5A6;
+}
+
+/* �섏씠吏� 怨듯넻 */
+
+.pagination li {
+    -khtml-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    -ms-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+}
+
+.pagination li.on:hover {
+    /*border: 1px solid #00B5A6;*/
+}
+
+.pagination .on {
+    color: #00B5A6;
+    border: none;
+}
+
+
+/*  異붿쿇��, �먮ℓ�멸린��, ���媛�寃⑹닚, �믪�媛�寃⑹닚, �곹뭹�됱닚, �깅줉�쇱닚 */
+
+.goods_pick_list .pick_list_num strong {
+    color: #00B5A6;
+}
+
+.goods_pick_list .pick_list_box .pick_list label.on {
+    color: #00B5A6;
+}
+
+.top_table_type .coupon_price b {
+    color: #00B5A6;
+}
+
+.layer_wrap .ly_tit h4 strong {
+    color: #00B5A6;
+}
+
+/* �섎웾 �좏깮 */
+
+.option_layer_cont .btn_confirm {
+    border: 1px solid #00B5A6;
+    background: #00B5A6;
+    -khtml-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    -ms-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+}
+
+.option_layer_cont .btn_confirm:hover {
+    border: 1px solid #00B5A6;
+    background: #00B5A6;
+}
+
+/* �λ컮援щ땲/李쒕━�ㅽ듃 �닿린 �덉씠�� */
+
+.add_cart_layer .btn_cancel:hover,
+.add_wish_layer .btn_cancel:hover {
+    border: 1px solid #00B5A6;
+    color: #00B5A6;
+}
+
+.add_cart_layer .btn_confirm,
+.add_wish_layer .btn_confirm {
+    border: 1px solid #00B5A6;
+    background: #00B5A6;
+}
+
+.add_cart_layer .btn_confirm:hover,
+.add_wish_layer .btn_confirm:hover {
+    border: 1px solid #00B5A6;
+    background: #00B5A6;
+}
+
+/* SNS 怨듭쑀�섍린 */
+
+.sns_copy_url button {
+    border: 1px solid #00B5A6;
+    background: #00B5A6;
+    -khtml-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    -ms-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+}
+
+.sns_copy_url button:hover {
+    border: 1px solid #00B5A6;
+    background: #00B5A6;
+}
+
+/* 荑좏룿 珥� �좎씤湲덉븸, 珥� �곷┰湲덉븸 */
+
+.coupon_total_box dd strong {
+    color: #00B5A6;
+}
+
+/* �곹뭹 由ъ뒪�� */
+
+.add_goods_layer .pick_list_num strong {
+    color: #00B5A6;
+}
+
+/* �뚮윭�� 由щ럭 �뚯씪 �낅줈�� */
+
+.review_file_upload .btn_right_box .btn_plus_review_enroll {
+    background: #00B5A6;
+    -khtml-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    -ms-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+}
+
+.review_file_upload .btn_right_box .btn_plus_review_enroll:hover {
+    background: #00B5A6;
+}
+
+/* 蹂� + �ъ쭊 + �됯� */
+
+.plus_review_look .star_photo_num em strong {
+    color: #00B5A6;
+}
+
+/* �볤� */
+
+.plus_review_look .review_comment_top .comment_best_num {
+    color: #00B5A6;
+}
+
+/* �뚮윭�� 由щ럭�깅줉 ���� 踰꾪듉 */
+
+.plus_review_register .btn_pr_save {
+    border: 1px solid #00B5A6;
+    background: #00B5A6;
+}
+
+/* �볤� �됰컲�� */
+
+.attend_reply_box .attend_reply_comment .btn_attend_check {
+    background: #00B5A6 url('../../img/event/btn_point_check2.png') no-repeat 41px center;
+    border: 1px solid #00B5A6;
+    -khtml-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    -ms-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+}
+
+.attend_reply_box .attend_reply_comment .btn_attend_check:hover {
+    background: #00B5A6 url('../../img/event/btn_point_check2.png') no-repeat 41px center;
+    border: 1px solid #00B5A6;
+}
+
+/* 罹섎┛�� �됰컲�� */
+
+.stamp_calendar_box .btn_attend_check {
+    background: #00B5A6 url('../../img/event/btn_point_check.png') no-repeat 65px 24px;
+    border: 1px solid #00B5A6;
+    -khtml-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    -ms-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+}
+
+.stamp_calendar_box .btn_attend_check:hover {
+    background: #00B5A6 url('../../img/event/btn_point_check.png') no-repeat 65px 24px;
+    border: 1px solid #00B5A6;
+}
+
+/* ���꾩꽭�� */
+
+.time_sale .time_now_order span {
+    color: #00B5A6;
+}
+
+/* ���꾩꽭�쇨�寃� */
+
+.time_sale_price dd {
+    color: #00B5A6;
+}
+
+/* �듭뀡異붽� */
+
+.item_add_option_box dt strong {
+    color: #00B5A6;
+}
+
+
+/* 珥� �⑷퀎湲됱븸 */
+
+.item_tatal_box .total_amount dd {
+    color: #00B5A6;
+}
+
+/* �곹뭹 �뺣낫�댁슜 �� */
+
+.item_goods_tab li a strong {
+    color: #00B5A6;
+}
+
+
+/* 寃뚯떆�� �쒕ぉ */
+
+.board_tit strong > span {
+    color: #00B5A6;
+}
+
+.board_tit .js_comment_count {
+    color: #00B5A6;
+}
+
+
+/* �듦� 諛뺤뒪 */
+
+.view_comment_top .comment_num strong {
+    color: #00B5A6;
+}
+
+.view_comment_top .comment_best_num strong {
+    color: #00B5A6;
+}
+
+/* ------------- 釉뚮옖�� ------------- */
+
+.brand_all_list button:hover {
+    border: 1px solid #00B5A6;
+}
+
+.brand_all_list button.on {
+    background: #00B5A6;
+}
+
+
+/* ------------- �곹뭹寃��� �섏씠吏� ------------- */
+
+.search_text_result span {
+    color: #00B5A6;
+}
+
+
+/* �몃��됯� */
+
+.plus_review_grade .grade_stick em {
+    background: #00B5A6;
+}
+
+/* �곹뭹 �ъ엯怨� �뚮┝ �좎껌 */
+
+#goodsRestock .gs_privacy_agree .agree_choice_box a {
+    color: #00B5A6;
+}
+
+/* �곹뭹 媛ㅻ윭由ы삎�� 湲곕낯�쇰줈 */
+
+.item_money_box .item_price {
+    color: #00B5A6;
+}
+
+.item_money_box .item_sale {
+    color: #00B5A6;
+}
+
+.btn_list_cart {
+    background: #00B5A6;
+}
+
+/* �λ컮援щ땲 */
+
+.btn_list_cart:hover {
+    background: #00B5A6;
+}
+
+/* ��쭊�댄삎 - �몃줈�� */
+
+.item_vl_tab_type .goods_tab_tit li.on a {
+    color: #00B5A6;
+}
+
+/* �곷떒 濡쒓렇�� */
+
+.top_member_box > li strong {
+    color: #00B5A6;
+}
+
+.top_mypage_cont li a:hover {
+    background: #00B5A6;
+}
+
+
+
+/* �곷떒硫붾돱 1�곸뒪 */
+
+#header .gnb .depth1 > li > a:hover {
+    background: #00B5A6;
+}
+
+#header .gnb .depth1 > li > a.active {
+    background: #00B5A6;
+}
+
+#header .gnb .depth1 li a:hover {
+    background: #00B5A6;
+}
+
+#header .gnb .depth1 li a.active {
+    background: #00B5A6;
+}
+
+.notice_rolling ul li a:hover {
+    color: #00B5A6;
+}
+
+/* �섏씠吏� ���됲듃 �덉씠�� */
+
+.location_select ul li a:hover {
+    background: #00B5A6;
+}
+
+
+/* �쒕툕 �ъ씠�� 硫붾돱 */
+
+.side_cont .sub_menu_box .sub_menu a:hover,
+.side_cont .sub_menu_box .sub_menu .active {
+    color: #00B5A6;
+}
+
+/
+/* �쒕툕硫붾돱 1�곸뒪 */
+
+.sub_menu_box .sub_depth1 > li > a:hover {
+    background: #00B5A6;
+}
+
+.sub_menu_box .sub_depth1 > li > a.active {
+    background: #00B5A6;
+}
+
+/* �쒕툕硫붾돱 2,3,4 �곸뒪 CSS */
+
+.sub_menu_box .sub_depth1 li a:hover {
+    background: transparent;
+}
+
+.sub_menu_box .sub_depth1 li a.active {
+    background: #00B5A6;
+}
+
+/* �쒕툕�ъ씠��  留덉씠�섏씠吏� */
+
+.side_cont .sub_menu_box .sub_menu_mypage a:hover,
+.side_cont .sub_menu_box .sub_menu_mypage .active {
+    color: #00B5A6;
+}
+
+/* �쒕툕 �ъ씠�� �뺣낫 */
+
+.side_cont .info_box .info_num {
+    font-size: 14px;
+    color: #00B5A6;
+}
+
+/* cs center */
+
+.content_info .cs_center strong {
+    color: #00B5A6;
+}
+
+/* bank info */
+
+.content_info .bank_info strong {
+    color: #00B5A6;
+}
+
+/* 理쒓렐蹂� �곹뭹 �댁슜 */
+
+.scroll_right_cont .src_box strong {
+    color: #00B5A6;
+}
+
+/* �곹뭹由ъ뒪�� �섏씠吏� */
+
+.scroll_right_cont .scr_paging strong {
+    color: #00B5A6;
+}
+
+/* -------------  �듦��� ------------- */
+
+/* �쒗깮/議곌굔,�꾩씠肄� */
+
+.quick_search_cont_box .quick_btn input {
+    border: 1px solid #00B5A6;
+    background: #00B5A6;
+}
+
+.quick_search_cont_box .quick_btn input:hover {
+    background: #00B5A6;
+    border: 1px solid #00B5A6;
+}
+
+/* �꾩튂 TOP */
+
+#quick_search.q_top {
+    border-bottom: 2px solid #00B5A6;
+}
+
+/* ------------- �쇳븨 移댄듃 �� ------------- */
+
+#shop_cart_wrap .btn_shop_buy {
+    background: #00B5A6;
+}
+
+#shop_cart_wrap .btn_shop_buy:hover {
+    background: #00B5A6;
+}
+
+.cart_tab_list .on {
+    border-top: 2px solid #00B5A6;
+}
+
+/* 李� 由ъ뒪�� + �λ컮援щ땲 �곹뭹媛�寃� �곸뿭 */
+
+.cart_total_box .total_price_sec strong {
+    color: #00B5A6;
+}
+
+/* 李쒕━�ㅽ듃 �� */
+
+.zzim_table_box .cart_chk_none {
+    color: #00B5A6;
+}
+
+/* �λ컮援щ땲 �� */
+
+.cart_table_box .cart_chk_none {
+    color: #00B5A6;
+}
+
+/* �듭뀡 �좏깮 �곹뭹媛�寃� �곸뿭 */
+
+.option_total_box .total_price_sec strong {
+    color: #00B5A6;
+}
+
+.option_total_box .btn_shop_soldout {
+    background: #00B5A6;
+}
+
+/* 濡쒓렇�� */
+
+.member_cont .member_login_box .login_input_sec button {
+    border: 1px solid #00b5a6;
+    background: #00b5a6;
+}
+
+.member_cont .member_login_box .login_input_sec button:hover {
+    background: #00b5a6;
+    border: 1px solid #00b5a6;
+}
+
+/* 鍮꾪쉶�� 二쇰Ц議고쉶 */
+
+.member_cont .nonmember_order_box .order_input_sec button {
+    border: 1px solid #00B5A6;
+    color: #00B5A6;
+}
+
+.member_cont .nonmember_order_box .order_input_sec button:hover {
+    border: 1px solid #00B5A6;
+    color: #00B5A6;
+}
+
+/* �꾩씠�� 李얘린 �꾨즺, 鍮꾨�踰덊샇 蹂�寃� �꾨즺 */
+
+.find_complete_box .find_id_name {
+    color: #00B5A6;
+}
+
+/* �꾩씠�� 李얘린 */
+
+.find_id_sec > p {
+    color: #00B5A6;
+}
+
+
+/* �뚯썝媛��� �꾨즺 */
+
+.join_ok_box .btn_member_sec .btn_login {
+    background: #00B5A6;
+    border: 1px solid #00B5A6;
+}
+
+.join_ok_box .btn_member_sec .btn_login:hover {
+    border: 1px solid #00B5A6;
+    background: #00B5A6;
+}
+
+/* �뚯썝�뱀씤 ��湲� */
+
+.join_wait_box .join_wait_tit .complete strong {
+    color: #00B5A6;
+}
+
+
+/* �대㈃�뚯썝 �댁젣 �좏깮 */
+
+.wake_base_box .wake_date dd strong {
+    color: #00B5A6;
+}
+
+
+/* �뚯썝媛��� �뺣낫�낅젰 */
+
+.join_base_wrap .member_tit .page_on {
+    color: #00B5A6;
+}
+
+.base_info_box > span {
+    color: #00B5A6;
+}
+
+/* �뚯썝媛��� �쎄��숈쓽 */
+
+.join_agreement_wrap .member_tit .page_on {
+    color: #00B5A6;
+}
+
+.join_agreement_cont .form_element strong {
+    color: #00B5A6;
+}
+
+.join_agreement_cont .form_element strong.choice {
+    color: #00B5A6;
+}
+
+.join_agreement_cont .form_element span > a {
+    color: #00B5A6;
+}
+
+.join_agreement_cont .important_check_box .important_check {
+    color: #00B5A6;
+}
+
+/* 媛��낅갑踰� �좏깮 */
+
+.info_again a {
+    color: #00B5A6;
+}
+
+.pick_list_num strong {
+    color: #00B5A6;
+}
+
+.fc_delivery_finish {
+    color: #00B5A6 !important;
+}
+
+/* 諛곗넚�꾨즺 */
+
+.fc_refund_finish {
+    color: #00B5A6 !important;
+}
+
+/* �섎텋�꾨즺 */
+
+/* ------------- 湲곕낯 寃뚯떆�� �뚯씠釉� 由ъ뒪��  ------------- */
+
+/* 寃뚯떆�� �쒕ぉ */
+
+.board_list_table .board_tit strong > span {
+    color: #00B5A6;
+}
+
+/* ------------- �뚯씠釉� 怨듯넻(�띿뒪�� �쇳꽣 湲곕낯) ------------- */
+
+.mypage_table_type td > strong {
+    color: #00B5A6;
+}
+
+/* ------------- �곷떒 留덉씠�섏씠吏� �뺣낫(�뚯썝�깃툒, 荑좏룿, 留덉씪由ъ�, �덉튂湲�) ------------- */
+
+.mypage_top_wallet li strong {
+    color: #00B5A6;
+}
+
+/* 吏꾪뻾 以묒씤 二쇰Ц */
+
+.mypage_order_info_cont .order_case_list ul li span > em,
+.mypage_order_info_cont .order_case_list ul li span > strong {
+    color: #00B5A6;
+}
+
+/* ------------- �쇳븨�뺣낫 愿��� �섏씠吏� �� ------------- */
+
+.mypage_breakdown_tab li a strong {
+    color: #00B5A6;
+}
+
+/* �ъ슜�� */
+
+.coupon_before_use {
+    color: #00B5A6;
+    border: 1px solid #00B5A6;
+}
+
+/* ------------- 留덉씠�섏씠吏� > �뚯썝 �뚯썝�뺣낫 ------------- */
+
+.my_page_password .id_pw_cont dd strong {
+    color: #00B5A6;
+}
+
+.order_wrap .order_tit .page_on {
+    color: #00B5A6;
+}
+
+/* 珥앷�寃� */
+
+.price_sum_cont .price_sum_list dd {
+    color: #00B5A6;
+}
+
+.price_sum_cont .price_sum_list dd strong {
+    color: #00B5A6;
+}
+
+
+/* �댁슜�쎄� �숈쓽 */
+
+.order_agree_cont strong {
+    color: #00B5A6;
+}
+
+/* --------- 寃곗젣�섎떒 �좏깮/寃곗젣 --------- */
+
+.payment_progress .order_zone_tit > p {
+    color: #00B5A6;
+}
+
+/* 寃곗젣湲덉븸, �꾩닔泥댄겕 */
+
+.payment_final .form_element label.check_s em b {
+    color: #00B5A6;
+}
+
+/* ------------- �ㅻЦ議곗궗 ------------- */
+
+/* �ㅻЦ議곗궗 �쒕ぉ + 由ъ뒪�� */
+
+.poll_list_tit strong {
+    color: #00B5A6;
+}
+
+/* �ㅻЦ議곗궗 寃곌낵 �쒕ぉ + 由ъ뒪�� */
+
+.poll_result_tit strong {
+    color: #00B5A6;
+}
+
+.poll_stick em {
+    background: #00B5A6;
+}
+
+/* ------------- FAQ ------------- */
+
+/* 寃뚯떆�� �쒕ぉ */
+
+.board_list_table .board_tit strong > span {
+    color: #00B5A6;
+}
+
+/* FAQ 吏덈Ц 由ъ뒪�� */
+
+.board_hot_list ul li.on span {
+    color: #00B5A6;
+}
+
+.board_hot_list ul li a span:hover {
+    border-bottom: 1px solid #00B5A6;
+    color: #00B5A6;
+}
+
+
+/* --------------------------------
+    �곹뭹�곸꽭 踰꾪듉
+-------------------------------- */
+
+/* 諛붾줈援щℓ 踰꾪듉 */
+
+.btn_add_order,
+.btn_add_order_related,
+.btn_add_cart_related {
+    border: 1px solid #00B5A6;
+    background: #00B5A6;
+}
+
+.btn_add_order:hover,
+.btn_add_order_related:hover,
+.btn_add_cart_related:hover {
+    border: 1px solid #00B5A6;
+    background: #00B5A6;
+}
+
+/* �ъ엯怨좎븣由� 踰꾪듉 */
+
+.btn_restock_notice_v1 {
+    color: #00B5A6;
+    border: 1px solid #00B5A6;
+}
+
+.btn_restock_notice_v1:hover {
+    color: #00B5A6;
+    border: 1px solid #00B5A6;
+}
+
+.btn_restock_notice_v2 {
+    color: #00B5A6;
+    border: 1px solid #00B5A6;
+}
+
+.btn_restock_notice_v2:hober {
+    color: #00B5A6;
+    border: 1px solid #00B5A6;
+}
+
+/* �곹뭹�꾧린 湲��곌린, �곹뭹臾몄쓽 湲��곌린 */
+
+.btn_reviews_write,
+.btn_qna_write {
+    border: 1px solid #00B5A6;
+    background: #00B5A6;
+}
+
+.btn_reviews_write:hover,
+.btn_qna_write:hover {
+    border: 1px solid #00B5A6;
+    background: #00B5A6;
+}
+
+/* 異붿쿇�섍린 */
+
+.btn_comment_best {
+    border: 1px solid #00B5A6;
+    background: #fff;
+    color:#00B5A6;
+    font-weight: bold;
+    padding: 3px;
+    font-size: 12px;
+}
+
+.btn_comment_best:hover {
+    border: 1px solid #00B5A6;
+    background: #fff;
+	color:#00B5A6;
+	font-weight: 500;
+
+}
+
+/* --------------------------------
+    �뚯썝媛��� 踰꾪듉
+-------------------------------- */
+
+/* �댁쟾, �ㅼ쓬 踰꾪듉 */
+
+.btn_member_next {
+    border: 1px solid #00b5a6;
+    background: #00b5a6;
+}
+
+.btn_member_next:hover {
+    border: 1px solid #00b5a6;
+    background: #00b5a6;
+}
+
+/* 濡쒓렇��, �뺤씤 踰꾪듉 */
+
+.btn_member_ok,
+.btn_member_login {
+    border: 1px solid #00B5A6;
+    background: #00B5A6;
+}
+
+.btn_member_ok:hover,
+.btn_member_login:hover {
+    border: 1px solid #00B5A6;
+    background: #00B5A6;
+}
+
+/* �뚯썝媛��� �깅벑 */
+
+.btn_member_black {
+    border: 1px solid #00B5A6;
+    background: #00B5A6;
+}
+
+.btn_member_black:hover {
+    border: 1px solid #00B5A6;
+    background: #00B5A6;
+}
+
+/* �뚯썝媛���, �대㉫ �댁젣�섍린 */
+
+.btn_comfirm {
+    border: 1px solid #00b5a6;
+    background: #00b5a6;
+}
+
+.btn_comfirm:hover {
+    border: 1px solid #00b5a6;
+    background: #00b5a6;
+}
+
+
+/* --------------------------------
+    留덉씠�섏씠吏� 踰꾪듉
+-------------------------------- */
+
+/* 援щℓ�뺤젙, 由щ럭�곌린 */
+
+.btn_buy_ok,
+.btn_review_write {
+    border: 1px solid #00B5A6;
+    background: #00B5A6;
+}
+
+.btn_buy_ok:hover,
+.btn_review_write:hover {
+    border: 1px solid #00B5A6;
+    background: #00B5A6;
+}
+
+/* �쇳븨�뺣낫 > 痍⑥냼,�뺤씤 */
+
+.btn_claim_ok {
+    border: 1px solid #00B5A6;
+    background: #00B5A6;
+}
+
+.btn_claim_ok:hover {
+    border: 1px solid #00B5A6;
+    background: #00B5A6;
+}
+
+/* 李쒕━�ㅽ듃 �λ컮援щ땲,��젣�섍린, �좏깮�곹뭹 ��젣 */
+
+.btn_wish_cart {
+    border: 1px solid #00B5A6;
+    background: #00B5A6;
+}
+
+.btn_wish_cart:hover {
+    border: 1px solid #00B5A6;
+    background: #00B5A6;
+}
+
+/* �뚯썝 鍮꾨�踰덊샇 寃�利� > 痍⑥냼, �몄쬆�섍린 */
+
+.btn_pw_certify {
+    border: 1px solid #00B5A6;
+    background: #00B5A6;
+}
+
+.btn_pw_certify:hover {
+    border: 1px solid #00B5A6;
+    background: #00B5A6;
+}
+
+/* 1:1 臾몄쓽 議고쉶踰꾪듉 */
+
+.mypage_cont .btn_date_check {
+    border: 1px solid #00B5A6;
+    background: #00B5A6;
+    text-align: center;
+}
+
+.mypage_cont .btn_date_check:hover {
+    border: 1px solid #00B5A6;
+    background: #00B5A6;
+}
+
+/* --------------------------------
+    二쇰Ц�섏씠吏� 踰꾪듉
+-------------------------------- */
+
+/* �꾩껜 �곹뭹 二쇰Ц */
+
+.btn_order_whole_buy {
+    border: 1px solid #00B5A6;
+    background: #00B5A6;
+}
+
+.btn_order_whole_buy:hover {
+    border: 1px solid #00B5A6;
+    background: #00B5A6;
+}
+
+/* 寃곗젣�섍린 */
+
+.btn_order_buy {
+    border: 1px solid #00B5A6;
+    background: #00B5A6;
+    text-align: center;
+}
+
+.btn_order_buy:hover {
+    border: 1px solid #00B5A6;
+    background: #00B5A6;
+}
+
+/* 二쇰Ц�꾨즺 > �뺤씤 */
+
+.btn_order_end_ok {
+    border: 1px solid #00B5A6;
+    background: #00B5A6;
+}
+
+.btn_order_end_ok:hover {
+    border: 1px solid #00B5A6;
+    background: #00B5A6;
+}
+
+
+/* --------------------------------
+    怨좉컼�쇳꽣 踰꾪듉
+-------------------------------- */
+
+/* 踰꾪듉 */
+
+.btn_poll_finish,
+.btn_main_go {
+    border: 1px solid #00B5A6;
+    background: #00B5A6;
+}
+
+/* �먯＜臾삳뒗 吏덈Ц 寃��됰쾭�� */
+
+.btn_date_check {
+    border: 1px solid #00B5A6;
+    background: #00B5A6;
+}
+
+.btn_date_check:hover {
+    border: 1px solid #00B5A6;
+    background: #00B5A6;
+}
+
+
+/* --------------------------------
+    �덉씠�� 踰꾪듉
+-------------------------------- */
+
+/* 寃��� 踰꾪듉 */
+
+.btn_ly_download,
+.btn_ly_coupon_apply,
+.btn_ly_write_ok,
+.btn_ly_ok,
+.btn_ly_save,
+.btn_escrow_go,
+.btn_pg_go {
+    border: 1px solid #00B5A6;
+    background: #00B5A6;
+}
+
+.btn_ly_download:hover,
+.btn_ly_coupon_apply:hover,
+.btn_ly_write_ok:hover,
+.btn_ly_ok:hover,
+.btn_ly_save:hover,
+.btn_escrow_go:hover,
+.btn_pg_go:hover {
+    border: 1px solid #00B5A6;
+    background: #00B5A6;
+}
+
+/* 1:1 臾몄쓽 議고쉶踰꾪듉, 誘명솗�� �낃툑�� 由ъ뒪�� 寃��됰쾭�� */
+
+.btn_ly_date_check,
+.btn_ly_depositor {
+    border: 1px solid #00B5A6;
+    background: #00B5A6;;
+}
+
+.btn_ly_date_check:hover,
+.btn_ly_depositor:hover {
+    border: 1px solid #00B5A6;
+    background: #00B5A6;
+}
+
+/* 異붿쿇�섍린 */
+
+.plus_review_look .btn_comment_best {
+    border: 1px solid #00B5A6;
+    background: #00B5A6;
+}
+
+.plus_review_look .btn_comment_best:hover {
+    border: 1px solid #00B5A6;
+    background: #00B5A6;
+}
+
+/* �멸툑怨꾩궛�� 諛쒗뻾 */
+
+.bnt_tax_invoice {
+    border: 1px solid #00B5A6;
+    background: #00B5A6;
+}
+
+.bnt_tax_invoice:hover {
+    border: 1px solid #00B5A6;
+    background: #00B5A6;
+}
+
+.bnt_cash_receipt {
+    border: 1px solid #00B5A6;
+    background: #00B5A6;
+}
+
+.bnt_cash_receipt:hover {
+    border: 1px solid #00B5A6;
+    background: #00B5A6;
+}
+
+/* PG 寃곗젣 痍⑥냼, �λ컮援щ땲 �대룞 */
+
+.btn_pg_cartmove {
+    border: 1px solid #00B5A6;
+    background: #00B5A6;
+}
+
+.btn_pg_cartmove:hover {
+    border: 1px solid #00B5A6;
+    background: #00B5A6;
+}
+
+/* �ъ엯怨� �뚮┝ �덉씠�� */
+
+.btn_goods_restock {
+    background: #00B5A6;
+    border: 1px solid #00B5A6;
+}
+
+.btn_goods_restock:hover {
+    border: 1px solid #00B5A6;
+    background: #00B5A6;
+}
+
+
+.payment_final_total dd {
+    color: #00B5A6;
+}
